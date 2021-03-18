@@ -20,6 +20,5 @@ Welcome to my repository, here you will find some projects that I have been work
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   
-###![AlfonsoJRD's github stats](https://github-readme-stats.vercel.app/api?username=AlfonsoJRD&show_icons=true)
 </p>
 
