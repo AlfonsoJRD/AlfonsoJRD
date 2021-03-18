@@ -6,7 +6,7 @@ Hi there! 👋
 
 Welcome to my repository, here you will find some projects that I have been working on during my studies and others that I am working on right now!
 
-#### :Lenguajes de programación: 
+#### Lenguajes y herramientas usadas:
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
